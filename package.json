@@ -8,9 +8,8 @@
     "test": "echo \"No tests yet...\""
   },
   "dependencies": {
-    "@azure/data-tables": "^13.3.0",
     "@azure/functions": "^4.0.0",
-    "@azure/storage-blob": "^12.26.0",
+    "dotenv": "^16.4.7",
     "sharp": "^0.33.5"
   },
   "devDependencies": {
